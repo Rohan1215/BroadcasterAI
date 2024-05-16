@@ -1,5 +1,5 @@
 # BroadcasterAI
-_BANG_ 🗣️🗣️
+BANG 🗣️🗣️
 
 ## setup
 1) create virtual env (nba_api has some particular dependencies)

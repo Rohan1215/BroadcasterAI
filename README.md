@@ -1,5 +1,5 @@
 # BroadcasterAI
-_Bang!!!!!!_
+_BANG_ 🗣️🗣️
 
 ## setup
 1) create virtual env (nba_api has some particular dependencies)
@@ -9,5 +9,5 @@ _Bang!!!!!!_
 5) paste key in config.yaml, writing: token = _key_
 
 
-## run
+## run command
 python3 nba_commentary.py
